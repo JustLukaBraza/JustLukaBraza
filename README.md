@@ -3,12 +3,16 @@
 ---
 
 ### 🌟 About Me
-A tech enthusiast and creative mind who loves crafting engaging digital experiences and exploring innovative ideas.
+I’m a tech enthusiast and creative mind who loves crafting engaging digital experiences and exploring innovative ideas. I’m also a voiceover artist, bringing characters and stories to life!
 
 ### 👀 Interests
 - **🌐 Web Development**: Passionate about building sleek and responsive websites.
 - **🎮 Gaming**: Dedicated to managing and designing immersive Minecraft servers.
 - **🎬 Anime**: Enjoy curating and sharing multimedia content with the community.
+- **🎤 Voice Acting**: Bringing creativity to life through character voices.
+
+### 🚀 My Project
+- **RE:NODE**: My own hosting service where you can host your projects effortlessly! Check it out: [RE:NODE](https://renode.space)
 
 ### 🌱 Currently Learning
 - **📚 JavaScript & TypeScript**: Leveling up my coding skills.
@@ -20,11 +24,12 @@ I’m excited to collaborate on:
 - **🤝 Open-source projects**: Let’s create something amazing together!
 - **💻 Creative designs**: Enhancing Discord servers and websites.
 - **🚀 Minecraft plugins**: Innovating server features and gameplay.
+- **🎤 Voiceover projects**: Let’s add some character to your content!
 
 ### 📫 Let's Connect
 I’d love to chat!
-- **Discord**: JustGurl2
-- **Instangram**: [@luk_a52](https://www.instagram.com/luk_a52/)
+- **Discord**: JustGurl#1234
+- **Twitter**: [@JustGurl](https://twitter.com/JustGurl)
 
 ### 😄 Pronouns
 She/Her
