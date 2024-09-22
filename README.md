@@ -8,7 +8,7 @@ I’m a tech enthusiast and creative mind who loves crafting engaging digital ex
 ### 👀 Interests
 - **🌐 Web Development**: Passionate about building sleek and responsive websites.
 - **🎮 Gaming**: Dedicated to managing and designing immersive Minecraft servers.
-- **🎬 Anime**: Enjoy curating and sharing multimedia content with the community.
+- **🎬 Movies**: Enjoy curating and sharing cinematic content with the community.
 - **🎤 Voice Acting**: Bringing creativity to life through character voices.
 
 ### 🚀 My Project
