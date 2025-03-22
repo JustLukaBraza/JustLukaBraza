@@ -1,36 +1,60 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media2.giphy.com/media/hUIn2yoj36JkzmEdE2/giphy.gif" width="140" style="border-radius: 50%; box-shadow: 0 4px 10px rgba(255, 255, 255, 0.3);"/>
-  <h1 style="font-size: 2.2rem; font-weight: bold; color: #f0f0f0; text-shadow: 2px 2px 10px rgba(255, 255, 255, 0.2);">
+  <h1 style="font-size: 2.5rem; font-weight: bold; color: #f0f0f0; text-shadow: 2px 2px 10px rgba(255, 255, 255, 0.2); margin-bottom: 10px;">
     👋 Welcome to My GitHub! 🚀
   </h1>
-  <p style="font-size: 1.2rem; font-weight: 500; color: #ccc;">
-    💻 Developer | 🎮 Minecraft Enthusiast | 🚀 Tech Innovator
+  <p style="font-size: 1.3rem; font-weight: 500; color: #ccc; margin-bottom: 20px;">
+    💻 Full Stack Developer | 🎮 Minecraft Enthusiast | 🚀 Tech Innovator
   </p>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <a href="https://github.com/JustLukaBraza">
+      <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://discord.com/users/850710751462031360">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="mailto:lukaabashidze52@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://komarev.com/ghpvc/?username=JustLukaBraza&color=blueviolet&style=flat-square" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-green?style=flat-square" alt="Status"/>
+  </div>
 </div>
 
 ---
 
-## 💡 About Me  
+## 🌟 About Me
 
-🚀 **Experienced Web & Backend Developer** specializing in **Python**, passionate about crafting robust, scalable, and high-performance solutions.  
-
-💻 **Freelancer & Independent Developer** – Currently focused on delivering **custom web applications, automation scripts, and backend systems** for clients.  
-
-🎮 **Minecraft Development Enthusiast** – I love designing and optimizing unique **server mechanics, plugins, and gameplay features** as a hobby whenever time allows.  
-
-🛠️ **Tech Explorer & Innovator** – Constantly learning and experimenting with **new frameworks, APIs, and cloud technologies** to stay ahead in the ever-evolving tech world.  
-
-⚡ **Performance & Optimization Expert** – Dedicated to ensuring smooth, fast, and efficient server operations by fine-tuning backend infrastructure.  
-
-🌍 **Passionate About Open-Source** – I actively contribute to projects, share knowledge, and collaborate with like-minded developers to build something extraordinary.  
-
-📩 **Let’s Connect!** Whether you need a **custom solution, backend optimization, automation tool, or want to brainstorm an innovative project**, feel free to reach out!  
-
-🔗 **Discord**: Justt52 | **GitHub**: [@luk_a52](https://github.com/JustLukaBraza)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🚀 Development Focus</h3>
+    <p style="color: #ccc;">Experienced in crafting robust, scalable solutions with Python and modern web technologies. Specializing in backend systems and automation.</p>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Backend-Python-blue?style=flat-square" alt="Backend"/>
+      <img src="https://img.shields.io/badge/API-RESTful-green?style=flat-square" alt="API"/>
+    </div>
+  </div>
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🎮 Gaming Passion</h3>
+    <p style="color: #ccc;">Minecraft development enthusiast creating unique server mechanics and plugins in my free time.</p>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Minecraft-Spigot-orange?style=flat-square" alt="Minecraft"/>
+      <img src="https://img.shields.io/badge/Plugins-Java-yellow?style=flat-square" alt="Java"/>
+    </div>
+  </div>
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">💡 Innovation</h3>
+    <p style="color: #ccc;">Constantly exploring new technologies and frameworks to stay at the forefront of development.</p>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Cloud-AWS-blue?style=flat-square" alt="AWS"/>
+      <img src="https://img.shields.io/badge/DevOps-Docker-green?style=flat-square" alt="Docker"/>
+    </div>
+  </div>
+</div>
 
 ---
-
-## 🛠 Tech Stack & Tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -58,15 +82,53 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🎯 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/luk-a52">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://discord.com/users/850710751462031360">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
+  
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🐍 Neon Snake Game - Modern Web Edition</h3>
+    <p style="color: #ccc;">A modern and stylish Snake game built with Flask.</p>
+    <a href="https://github.com/JustLukaBraza/SnakeGameWithFlask" style="color: #00bfff;">🔗 View on GitHub</a>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
+      <img src="https://img.shields.io/github/stars/JustLukaBraza/SnakeGameWithFlask?style=flat-square" alt="Stars"/>
+    </div>
+  </div>
+  
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🛒 RENODE STORE WITH FLASK</h3>
+    <p style="color: #ccc;">A Flask-powered e-commerce store for digital products.</p>
+    <a href="https://github.com/JustLukaBraza/geolab-final-project-" style="color: #00bfff;">🔗 View on GitHub</a>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
+      <img src="https://img.shields.io/github/stars/JustLukaBraza/geolab-final-project-?style=flat-square" alt="Stars"/>
+    </div>
+  </div>
 
-🚀 Always open to exciting opportunities and collaborations! Let's build something amazing together!
+</div>
+
+---
+
+
+<div align="center" style="margin-top: 30px; background: rgba(255, 255, 255, 0.05); padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+  <h3 style="color: #f0f0f0; font-size: 1.5rem; margin-bottom: 15px;">🚀 Let's Build Something Amazing Together!</h3>
+  <p style="color: #ccc; font-size: 1.1rem; margin-bottom: 20px;">
+    Always open to exciting opportunities and collaborations!
+  </p>
+  <div style="display: flex; justify-content: center; gap: 15px;">
+    <a href="https://github.com/JustLukaBraza">
+      <img src="https://img.shields.io/badge/Connect-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://discord.com/users/850710751462031360">
+      <img src="https://img.shields.io/badge/Chat-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="mailto:lukaabashidze52@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️-By%20JustLukaBraza-red?style=flat-square" alt="Made with Love"/>
+</div>
