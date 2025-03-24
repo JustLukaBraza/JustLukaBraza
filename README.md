@@ -87,6 +87,16 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
   
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🎮 RohamboMaster - Rock Paper Scissors With Flask</h3>
+    <p style="color: #ccc;">A classic Rock Paper Scissors game built with Flask featuring modern UI and game statistics.</p>
+    <a href="https://github.com/JustLukaBraza/RohamboGameWithFlask-" style="color: #00bfff;">🔗 View on GitHub</a>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
+      <img src="https://img.shields.io/github/stars/JustLukaBraza/RohamboGameWithFlask-?style=flat-square" alt="Stars"/>
+    </div>
+  </div>
+  
+  <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h3 style="color: #f0f0f0; margin-bottom: 10px;">🐍 Neon Snake Game - Modern Web Edition</h3>
     <p style="color: #ccc;">A modern and stylish Snake game built with Flask.</p>
     <a href="https://github.com/JustLukaBraza/SnakeGameWithFlask" style="color: #00bfff;">🔗 View on GitHub</a>
@@ -109,7 +119,6 @@
 </div>
 
 ---
-
 
 <div align="center" style="margin-top: 30px; background: rgba(255, 255, 255, 0.05); padding: 30px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
   <h3 style="color: #f0f0f0; font-size: 1.5rem; margin-bottom: 15px;">🚀 Let's Build Something Amazing Together!</h3>
