@@ -4,7 +4,7 @@
     👋 Welcome to My GitHub! 🚀
   </h1>
   <p style="font-size: 1.3rem; font-weight: 500; color: #ccc; margin-bottom: 20px;">
-    💻 Full Stack Developer | 🎮 Minecraft Enthusiast | 🚀 Tech Innovator
+    💻 Full Stack Developer | 🎮 Game Developer | 🚀 Tech Innovator
   </p>
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <a href="https://github.com/JustLukaBraza">
@@ -38,10 +38,10 @@
   </div>
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
     <h3 style="color: #f0f0f0; margin-bottom: 10px;">🎮 Gaming Passion</h3>
-    <p style="color: #ccc;">Minecraft development enthusiast creating unique server mechanics and plugins in my free time.</p>
+    <p style="color: #ccc;">Passionate about creating engaging games and interactive experiences using modern web technologies and Python.</p>
     <div style="margin-top: 15px;">
-      <img src="https://img.shields.io/badge/Minecraft-Spigot-orange?style=flat-square" alt="Minecraft"/>
-      <img src="https://img.shields.io/badge/Plugins-Java-yellow?style=flat-square" alt="Java"/>
+      <img src="https://img.shields.io/badge/Game%20Dev-Python-orange?style=flat-square" alt="Game Dev"/>
+      <img src="https://img.shields.io/badge/Web%20Games-Flask-yellow?style=flat-square" alt="Web Games"/>
     </div>
   </div>
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease;">
@@ -85,7 +85,17 @@
 ## 🎯 Featured Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 20px 0;">
-  
+    <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <h3 style="color: #f0f0f0; margin-bottom: 10px;">🌟 Modern Developer Portfolio</h3>
+    <p style="color: #ccc;">A stunning portfolio website built with Flask, featuring modern design, animations, and interactive elements.</p>
+    <a href="https://github.com/JustLukaBraza/Modern-Developer-Portfolio" style="color: #00bfff;">🔗 View on GitHub</a>
+    <div style="margin-top: 15px;">
+      <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"/>
+      <img src="https://img.shields.io/badge/Features-Modern%20UI-blue?style=flat-square" alt="Features"/>
+      <img src="https://img.shields.io/badge/Theme-Dark%20Mode-purple?style=flat-square" alt="Theme"/>
+    </div>
+  </div>
+
   <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h3 style="color: #f0f0f0; margin-bottom: 10px;">🎮 RohamboMaster - Rock Paper Scissors With Flask</h3>
     <p style="color: #ccc;">A classic Rock Paper Scissors game built with Flask featuring modern UI and game statistics.</p>
@@ -115,6 +125,7 @@
       <img src="https://img.shields.io/github/stars/JustLukaBraza/geolab-final-project-?style=flat-square" alt="Stars"/>
     </div>
   </div>
+
 
 </div>
 
